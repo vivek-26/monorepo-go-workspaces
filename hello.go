@@ -4,6 +4,6 @@ import (
 	"fmt"
 )
 
-func SayHello() {
-	fmt.Println("Hello World")
+func SayHelloSpanish() {
+	fmt.Println("Hola Mundo")
 }
